@@ -1,6 +1,6 @@
 {
     "address1": {
-        "value": "Address",
+        "value": "54 le dai hanh",
         "required": true
     },
     "address2": {
@@ -8,7 +8,7 @@
         "required": false
     },
     "city": {
-        "value": "City",
+        "value": "hanoi",
         "required": true
     },
     "country": {
@@ -17,7 +17,7 @@
         "options": []   
     },
     "postal_code": {
-        "value": "00000",
+        "value": "100000",
         "required": true  
     },
     "state": {
